@@ -4,6 +4,7 @@
 require(File.join(File.dirname(__FILE__), 'config', 'boot'))
 
 require 'thinkingtank'
+require 'thinkingtank/tasks'
 
 require 'rake'
 require 'rake/testtask'
